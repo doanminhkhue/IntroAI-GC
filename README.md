@@ -25,8 +25,8 @@
 
 ## 📑 Tổng quan cấu trúc báo cáo
 
-### Chương 1: Giới thiệu đề tài  <br>
-**1. Đặt vấn đề**
+### Chương 1: Giới thiệu đề tài  
+**1. Đặt vấn đề** <br>
 **2. Phương pháp tiếp cận**
 **3. Mục tiêu báo cáo**
 **4. Bố cục báo cáo**
