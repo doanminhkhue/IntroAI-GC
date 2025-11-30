@@ -4,22 +4,22 @@
 
 [Các thông tin này cũng cần được đưa vào báo cáo PDF và slide trình bày.]
 
-* **📚 Môn học:** [Mã môn học] - Nhập môn Trí tuệ Nhân tạo  
-* **📅 Học kỳ:** [Học kỳ - Năm học] (ví dụ: Học kỳ 1 - 2025-2026, v.v.)  
+* **📚 Môn học:** MAT3508 - Nhập môn Trí tuệ Nhân tạo  
+* **📅 Học kỳ:** Học kỳ 1, Năm học 2025-2026  
 * **🏫 Trường:** VNU-HUS (Đại học Quốc gia Hà Nội - Trường Đại học Khoa học Tự nhiên)  
-* **📝 Tiêu đề:** [Tên dự án của bạn]  
-* **📅 Ngày nộp:** [Ngày nộp] (ví dụ: 30/06/2025)  
-* **📄 Báo cáo PDF:** 📄 [Liên kết tới báo cáo PDF trong kho lưu trữ này]  
-* **🖥️ Slide thuyết trình:** 🖥️ [Liên kết tới slide thuyết trình trong kho lưu trữ này]  
-* **📂 Kho lưu trữ:** 📁 Bao gồm mã nguồn, dữ liệu và tài liệu (hoặc dẫn link ngoài nếu cần)
+* **📝 Tiêu đề:** Phân loại rác thải trong gia đình
+* **📅 Ngày nộp:** 30/11/2025
+* **📄 Báo cáo PDF:** 📄  https://github.com/doanminhkhue/IntroAI-GC/tree/main/report  
+* **🖥️ Slide thuyết trình:** 🖥️  https://github.com/doanminhkhue/IntroAI-GC/tree/main/slide
+* **📂 Kho lưu trữ:** 📁 https://github.com/doanminhkhue/IntroAI_garbage_classification
 
 **👥 Thành viên nhóm:**
 
 | 👤 Họ và tên      | 🆔 Mã sinh viên     | 🐙 Tên GitHub        | 🛠️ Đóng góp  |
 |------------------|--------------------|----------------------|----------------------|
-| [Tên bạn 1]      | [Mã SV 1]          | [GitHub 1]           | [Đóng góp 1]         |
-| [Tên bạn 2]      | [Mã SV 2]          | [GitHub 2]           | [Đóng góp 2]         |
-| [Tên bạn 3]      | [Mã SV 3]          | [GitHub 3]           | [Đóng góp 3]         |
+| Vũ Nguyễn Quỳnh Anh     | 23001830          | quynhanh_2610          | Giới thiệu, cơ sở lý thuyết, tiền xử lý         |
+| Nguyễn Văn Duy   | 23001854          | nvndy27           | Huấn luyện, triển khai mô hình, kết luận         |
+| Đoàn Thị Minh Khuê      | 23001894          | doanminhkhue           | Chia dữ liệu, thực nghiệm và đánh giá         |
 
 ---
 
@@ -75,14 +75,14 @@
 
 ### ✅ Danh sách kiểm tra trước khi nộp
 - [X] ✅ Đánh dấu X vào ô để xác nhận hoàn thành  
-- [ ] ✍️ Điền đầy đủ các mục trong mẫu README này  
-- [ ] 📄 Hoàn thiện báo cáo PDF chi tiết theo cấu trúc trên  
-- [ ] 🎨 Tuân thủ định dạng và nội dung theo hướng dẫn giảng viên  
-- [ ] ➕ Thêm các mục riêng của dự án nếu cần  
-- [ ] 🔍 Kiểm tra lại ngữ pháp, diễn đạt và độ chính xác kỹ thuật  
-- [ ] ⬆️ Tải lên báo cáo PDF, slide trình bày và mã nguồn  
-- [ ] 🧩 Đảm bảo tất cả mã nguồn được tài liệu hóa đầy đủ với bình luận và docstring  
-- [ ] 🔗 Kiểm tra các liên kết và tài liệu tham khảo hoạt động đúng
+- [X] ✍️ Điền đầy đủ các mục trong mẫu README này  
+- [X] 📄 Hoàn thiện báo cáo PDF chi tiết theo cấu trúc trên  
+- [X] 🎨 Tuân thủ định dạng và nội dung theo hướng dẫn giảng viên  
+- [X] ➕ Thêm các mục riêng của dự án nếu cần  
+- [X] 🔍 Kiểm tra lại ngữ pháp, diễn đạt và độ chính xác kỹ thuật  
+- [X] ⬆️ Tải lên báo cáo PDF, slide trình bày và mã nguồn  
+- [X] 🧩 Đảm bảo tất cả mã nguồn được tài liệu hóa đầy đủ với bình luận và docstring  
+- [X] 🔗 Kiểm tra các liên kết và tài liệu tham khảo hoạt động đúng
 
 ### 🏆 Tiêu chí đánh giá Bài tập nhóm
 
@@ -94,7 +94,3 @@ Xem 📄 [Rubrics.md](Rubrics.md) để biết chi tiết về tiêu chí đánh
 - 📘 [Sổ tay dùng LaTeX](https://vietex.blog.fc2.com/blog-entry-516.html) - Hướng dẫn sử dụng LaTeX bằng tiếng Việt  
 - 🔎 [Một số phương pháp tải bài báo khoa học](https://hoanganhduc.github.io/misc/m%E1%BB%99t-s%E1%BB%91-ph%C6%B0%C6%A1ng-ph%C3%A1p-t%E1%BA%A3i-b%C3%A0i-b%C3%A1o-khoa-h%E1%BB%8Dc/) - Hướng dẫn một số phương pháp tải bài báo khoa học  
 - 📰 [AI Vietnam Blog](https://aivietnam.edu.vn/blog) - Blog với các bài viết về AI bằng tiếng Việt
-
----
-
-*Mẫu cập nhật lần cuối: 🗓️ Tháng 7/2025*
