@@ -22,7 +22,7 @@ Dự án tập trung vào bài toán phân loại rác thải sinh hoạt trong 
 ### 🚀 Kế hoạch
 - Thu thập dữ liệu: sử dụng các bộ dữ liệu rác thải gia đình có sẵn trên Kaggle đồng thời tự thu thập thêm ảnh từ môi trường thực tế hoặc các dataset khác (để cải thiện dataset chính)
 - Tiền xử lý dữ liệu: chuẩn hóa kích thước ảnh, chuyển sang thang xám hoặc trích xuất đặc trưng thủ công (ví dụ: HOG, SIFT, hoặc histogram màu).
-- Xây dựng mô hình học máy cơ bản: bắt đầu bằng các thuật toán học máy cơ bản như KNN, SVM, Decision Tree,… để có cái nhìn ban đầu.
+- Xây dựng mô hình học sâu.
 - Huấn luyện và đánh giá: chia dữ liệu thành tập huấn luyện và tập kiểm thử; sử dụng các chỉ số đánh giá để đo lường hiệu quả.
 - Demo ứng dụng nhỏ: xây dựng giao diện đơn giản cho phép người dùng tải ảnh rác thải và nhận kết quả phân loại.
 
